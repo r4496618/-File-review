@@ -1,5 +1,6 @@
 # -File-review
 对指定文件夹及子文件夹进行查重
+
 ![截图](https://github.com/user-attachments/assets/acfbc970-1fb5-4894-9625-cd6e0d6bb687)
 目前已完成到1.9版本
 1、软件可以对指定目录进行搜索，查找到重复文件后将路径输出到控制台。
