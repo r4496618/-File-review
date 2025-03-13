@@ -1,5 +1,6 @@
 # -File-review
 对指定文件夹及子文件夹进行重复文件查找。
+
 Repeat file lookup for the specified folder and subfolders.
 
 ![截图](https://github.com/user-attachments/assets/acfbc970-1fb5-4894-9625-cd6e0d6bb687)
