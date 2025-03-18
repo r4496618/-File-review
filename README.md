@@ -3,6 +3,8 @@
 
 Repeat file lookup for the specified folder and subfolders.
 
+软件主要是先分析文件名和文件大小，进行初步重合确定以后再进行下一步的哈希校验，哈希校验完成以后可以直接删除，并添加指向副本的快捷方式。经过优化，本软件查重效率比直接哈希校验的方式高效很多，虽然本软件暂未进行多核优化，但是本软件搜索数百G的重复文件依然可以做到秒级（不开哈希校验）、分钟级（开校验）。
+
 ![截图](https://github.com/user-attachments/assets/acfbc970-1fb5-4894-9625-cd6e0d6bb687)
 
 目前已完成到2.3版本
