@@ -8,6 +8,8 @@ Repeat file lookup for the specified folder and subfolders.
 本软件以AI为基础进行开发，主要为验证纯AI对话的软件开发的可行性，事实证明，随着软件越来越复杂，功能越来越多，添加一个功能很容易导致其他部分的bug，可能需要一个完美的架构，将功能完全分离，修改代码时也只允许AI修改对应函数的代码才能延长AI生成代码的寿命。
 另外还有个问题，AI生成的代码无法精确的实现设计者的功能，为了填补AI前期留下的坑，后面我浪费了更多的时间来修改代码。
 
+本来我还想加个GUI看这AI扶不起的阿斗样，不想搞了。
+
 ![截图](https://github.com/user-attachments/assets/acfbc970-1fb5-4894-9625-cd6e0d6bb687)
 
 目前已完成到2.3版本
@@ -35,3 +37,5 @@ Repeat file lookup for the specified folder and subfolders.
 9、哈希模式，结果文件再进行一次哈希校验，保证准确性，如果哈希校验以后确定不是重复文件就会剔除到删除列表以外。
 
 10、直接删除不确认，必须和-d模式进行配合使用。
+
+11、新版本更新懒得改介绍了，直接用-h看吧。
